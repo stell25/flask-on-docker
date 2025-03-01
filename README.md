@@ -26,3 +26,5 @@ docker compose -f docker-compose.prod.yml exec web python manage.py create_db
 
 <img src="Screenshot 2025-02-28 191625.png" />
 <img src="Screenshot 2025-02-28 194549.png" />
+
+<img src="squirtle.gif" />
