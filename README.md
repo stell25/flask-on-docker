@@ -23,3 +23,5 @@ docker compose -f docker-compose.prod.yml exec web python manage.py create_db
 ```
 6. Enable Port Forwarding from docker to your local port.
 7. Upload an image at http://localhost:8080/upload. Then, view the image at http://localhost:8080/media/IMAGE_FILE_NAME.
+
+<img src="Screenshot 2025-02-28 191625.png" />
