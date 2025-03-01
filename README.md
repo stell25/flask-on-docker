@@ -25,3 +25,4 @@ docker compose -f docker-compose.prod.yml exec web python manage.py create_db
 7. Upload an image at http://localhost:8080/upload. Then, view the image at http://localhost:8080/media/IMAGE_FILE_NAME.
 
 <img src="Screenshot 2025-02-28 191625.png" />
+<img src="Screenshot 2025-02-28 194549.png" />
